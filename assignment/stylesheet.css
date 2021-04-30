@@ -1,12 +1,24 @@
 header {
-  background-color: Grey;
+  background-color: Brown;
 }
 
 
 h1 {
   color: Yellow;
+  text-align: center;
 }
 
-h2 {
+.storeName {
   color: Green;
+  text-align: center;
+}
+
+main {
+  background-color: Grey;
+  padding: 1em;
+}
+
+body {
+  background-image: url("record.png");
+  margin: 0;
 }
